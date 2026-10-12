@@ -1,0 +1,6 @@
+metric,value
+Silhouette,0.11746425926685333
+Calinski-Harabasz,4109.390239276244
+Davies-Bouldin,1.9153875024697045
+ARI,0.8154
+N_clusters,26.0
